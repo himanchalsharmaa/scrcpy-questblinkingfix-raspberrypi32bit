@@ -1,0 +1,1 @@
+# scrcpy-questblinkingfix-raspberrypi32bit
